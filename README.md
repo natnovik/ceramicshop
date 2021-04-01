@@ -1,2 +1,2 @@
 # ceramicshop
-html&amp;css JS, study projets
+html&amp;css JS, a study projet
